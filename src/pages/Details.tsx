@@ -1,7 +1,7 @@
 import {
     Box, Container, Grid, GridItem, Image, Heading, Text,
-    VStack, HStack, Badge, Button, Avatar, SimpleGrid,
-    Select, Spinner, Center, AspectRatio
+    VStack, HStack, Button, Avatar, SimpleGrid,
+    Select, Spinner, Center
 } from '@chakra-ui/react'
 import { useQuery } from '@tanstack/react-query'
 import { useParams, useNavigate } from 'react-router-dom'
